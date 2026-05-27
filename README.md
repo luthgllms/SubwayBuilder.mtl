@@ -10,3 +10,7 @@
 A detailed recreation of the Montreal Metro network for Subway Builder, featuring real station layouts, line connections, service patterns, and transit-inspired visual design. It is an independent work and is not affiliated with, endorsed by, or associated with the Société de transport de Montréal (STM).
 
 All rights to Subway Builder and related intellectual property belong to their respective owners. This project is distributed free of charge and is not intended for commercial use. Original source can be found [here](https://www.subwaybuilder.com/).
+
+## Getting Started
+
+#### Mod Installation 
