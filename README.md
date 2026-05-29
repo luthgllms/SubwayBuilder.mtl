@@ -28,6 +28,6 @@ The map recreates the Greater Montreal metropolitan region, divided into five ma
 
 ## Disclaimer
 
-It is an independent work and is not affiliated with, endorsed by, or associated with the Société de transport de Montréal (STM).
+It is an independent work and is not affiliated with, endorsed by, or associated with the [Société de transport de Montréal (STM)](https://www.stm.info/fr).
 
 All rights to [Subway Builder](https://www.subwaybuilder.com/) and related intellectual property belong to their respective owners. This project is distributed free of charge and is not intended for commercial use. 
