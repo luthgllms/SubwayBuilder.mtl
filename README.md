@@ -17,6 +17,17 @@ All rights to [Subway Builder](https://www.subwaybuilder.com/) and related intel
 - [ ] **Incoming**: V1.0.1 — Station & Network Templates
 - [ ] **Incoming**: V1.0.0 — Greater Montreal Map Release
 
+## Features
+
+### Geographic Coverage
+
+The map recreates the Greater Montreal metropolitan region, divided into five major geographical zones:
+- **Island of Montreal** — The urban core of the region and home of the Montreal Metro.
+- **Laval** — A major city located north of Montreal on Île Jésus.
+- **Longueuil** — The primary transit and commercial hub of the South Shore.
+- **North Shore** — A collection of suburban municipalities north of Laval and Montreal.
+- **South Shore** — A network of cities and communities south of the St. Lawrence River connected to Montreal by major transit corridors.
+
 ## Getting Started
 
 #### Mod Installation 
