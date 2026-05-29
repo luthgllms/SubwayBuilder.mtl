@@ -26,6 +26,8 @@ The map recreates the Greater Montreal metropolitan region, divided into five ma
 
 #### Mod Installation 
 
+This mod is available via [Railyard](https://subwaybuildermodded.com/), the community mod catalog for Subway Builder.
+
 ## Disclaimer
 
 It is an independent work and is not affiliated with, endorsed by, or associated with the [Société de transport de Montréal (STM)](https://www.stm.info/fr).
