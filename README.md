@@ -3,8 +3,6 @@
 
 # Greater Montreal Metro mod for Subway Builder
 
-[Luth Gallemaso](https:luthgllms@github.io)
-
 </div>
 
 A detailed recreation of the Montreal Metro network for Subway Builder, featuring real station layouts, line connections, service patterns, and transit-inspired visual design. 
