@@ -11,7 +11,7 @@ A detailed recreation of the Montreal Metro network for Subway Builder, featurin
 - [ ] **Incoming**: V1.0.1 — Station & Network Templates
 - [ ] **Incoming**: V1.0.0 — Greater Montreal Map Release
 
-## Features
+## V1.0.0 Features
 
 ### Geographic Coverage
 
