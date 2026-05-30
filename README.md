@@ -22,6 +22,12 @@ The map recreates the Greater Montreal metropolitan region, divided into five ma
 - **North Shore** — A collection of suburban municipalities north of Laval and Montreal.
 - **South Shore** — A network of cities and communities south of the St. Lawrence River connected to Montreal by major transit corridors.
 
+### Transit Systems
+
+- **Montreal Metro** — The backbone of rapid transit across the metropolitan region.
+- **Exo Commuter Rail** — Regional rail connections linking suburban communities to the urban core.
+- **REM (Réseau express métropolitain)** — Automated light metro connecting Montreal, the South Shore, the West Island, Laval, and the airport.
+
 ## Getting Started
 
 #### Mod Installation 
