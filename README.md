@@ -13,6 +13,8 @@ A detailed recreation of the Montreal Metro network for Subway Builder, featurin
 
 ## V1.0.0 Features
 
+### Preview
+
 ### Geographic Coverage
 
 The map recreates the Greater Montreal metropolitan region, divided into five major geographical zones:
