@@ -8,8 +8,8 @@
 A detailed recreation of the Montreal Metro network for Subway Builder, featuring real station layouts, line connections, service patterns, and transit-inspired visual design. 
 
 ## News
-- [ ] **Incoming**: V1.0.3 - Seasonal Service & Weather
-- [ ] **Incoming**: V1.0.2 - Construction & Service Changes
+- [ ] **Incoming**: V1.0.3 — Seasonal Service & Weather
+- [ ] **Incoming**: V1.0.2 — Construction & Service Changes
 - [ ] **Incoming**: V1.0.1 — Station & Network Templates
 - [ ] **Incoming**: V1.0.0 — Greater Montreal Map Release
 
