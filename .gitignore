@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Node / build tooling 
+node_modules/
+dist/
+
+# Editor
+.vscode/
+
+# Environment/secrets
+.env

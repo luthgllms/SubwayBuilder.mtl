@@ -1,0 +1,8 @@
+{
+  "id": "com.lu.greater-montreal",
+  "name": "Montreal Metro",
+  "version": "1.0.0",
+  "author": { "name": "Lu" },
+  "main": "index.js",
+  "description": "Recreates Greater Montreal's transit network as a playable city, with borough-specific constraints and construction effects"
+}
